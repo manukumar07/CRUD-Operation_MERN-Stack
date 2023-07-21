@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <>
        <nav>
-        <a href="">
+        <a href="./">
 
         </a>
         <h1>Hello..</h1>
