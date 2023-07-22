@@ -3,8 +3,9 @@ import React from 'react'
 const Navbar = () => {
   return (
     <>
-        <h2>Welcome to navbar.</h2>
+        <h2>Welcome to navbar</h2>
     </>
+
   )
 }
 
