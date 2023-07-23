@@ -4,8 +4,12 @@ import "./Navbar.css";
 const Navbar = () => {
   return (
     <>
-        <h2>Welcome to navbar</h2>
-    </>
+        <div>
+                <navbar>
+                    <h1>Logo..</h1>
+                </navbar>
+        </div>
+            </>
 
   )
 }
