@@ -6,7 +6,7 @@ const Navbar = () => {
     <>
         <div>
                 <navbar>
-                    <h1>Logo..</h1>
+                    <h1>Logo.</h1>
                 </navbar>
         </div>
             </>
